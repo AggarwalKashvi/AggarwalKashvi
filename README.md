@@ -9,7 +9,7 @@ I am an Ai engineer and backend developer, actively building AI systems (RAG, LL
 
 ## 🛠️ Skills
 
-### 💻 Languages
+###  Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
@@ -21,7 +21,7 @@ I am an Ai engineer and backend developer, actively building AI systems (RAG, LL
 
 ---
 
-### 🧰 Developer Tools
+###  Developer Tools
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab)
@@ -35,7 +35,7 @@ I am an Ai engineer and backend developer, actively building AI systems (RAG, LL
 
 ---
 
-### 🧠 Concepts & Techniques
+###  Concepts & Techniques
 `REST APIs` `FastAPI` `WebSockets` `Real-time Systems`  
 `Machine Learning` `Deep Learning` `NLP` `RAG (Retrieval-Augmented Generation)`  
 `LLMs` `Prompt Engineering` `Vector Databases (FAISS)`  
