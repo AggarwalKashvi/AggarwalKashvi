@@ -12,7 +12,6 @@ your friendly tech enthusiast! here are some of my skills. . .
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 
 
-
 ###  Developer Tools
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
@@ -24,9 +23,6 @@ your friendly tech enthusiast! here are some of my skills. . .
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator)
 
 
-
----
-
 ###  Concepts & Techniques
 `REST APIs` `FastAPI` `WebSockets` `Real-time Systems` `Machine Learning` `Deep Learning` `NLP` `RAG`  
-`LLMs` `Prompt Engineering` `Vector Databases (FAISS)`  `EDA` `Data Structures` `Backend Architecture`  `Azure SQL` `Azure Data Factory` `Databricks`  `Microservices` `API Integration`
+`LLMs` `docker`  `EDA` `Data Structures` `Backend Architecture`  `Azure SQL` `Azure Data Factory` `Databricks`  `Microservices` `API Integration`
