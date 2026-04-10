@@ -1,4 +1,4 @@
-##Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Kashvi
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Kashvi
 
 your friendly tech enthusiast! here are some of my skills. . .
 
