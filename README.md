@@ -1,13 +1,6 @@
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Kashvi
+##Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Kashvi
 
----
-
-## About Me
-I am an Ai engineer and backend developer, actively building AI systems (RAG, LLM apps, Chrome extensions) and interested in scalable backend + real-time systems   
-
----
-
-## 🛠️ Skills
+your friendly tech enthusiast! here are some of my skills. . .
 
 ###  Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
@@ -19,7 +12,6 @@ I am an Ai engineer and backend developer, actively building AI systems (RAG, LL
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 
 
----
 
 ###  Developer Tools
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
@@ -36,9 +28,5 @@ I am an Ai engineer and backend developer, actively building AI systems (RAG, LL
 ---
 
 ###  Concepts & Techniques
-`REST APIs` `FastAPI` `WebSockets` `Real-time Systems`  
-`Machine Learning` `Deep Learning` `NLP` `RAG (Retrieval-Augmented Generation)`  
-`LLMs` `Prompt Engineering` `Vector Databases (FAISS)`  
-`EDA` `Data Structures` `Backend Architecture`  
-`Azure SQL` `Azure Data Factory` `Databricks`  
-`Microservices` `API Integration`
+`REST APIs` `FastAPI` `WebSockets` `Real-time Systems` `Machine Learning` `Deep Learning` `NLP` `RAG`  
+`LLMs` `Prompt Engineering` `Vector Databases (FAISS)`  `EDA` `Data Structures` `Backend Architecture`  `Azure SQL` `Azure Data Factory` `Databricks`  `Microservices` `API Integration`
