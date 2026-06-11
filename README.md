@@ -1,28 +1,119 @@
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Kashvi
+# Hey, I'm Kashvi 👋
 
-your friendly tech enthusiast! here are some of my skills. . .
+AI Engineer • Backend Developer • Product Builder
 
-###  Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+Building AI-powered systems, real-time applications, and developer tools using FastAPI, LLMs, cloud technologies, and modern backend architectures.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-###  Developer Tools
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator)
+| ⚡ <150ms latency | 📚 15k–20k pages indexed | 🎯 94% AI accuracy | 👥 4-user collaboration |
+|------------------|--------------------------|-------------------|-------------------------|
+| Real-time sync | Enterprise retrieval | AI writing assistant | Collaborative coding |
 
+---
 
-###  Concepts & Techniques
-`REST APIs` `FastAPI` `WebSockets` `Real-time Systems` `Machine Learning` `Deep Learning` `NLP` `RAG`  
-`LLMs` `docker`  `EDA` `Data Structures` `Backend Architecture`  `Azure SQL` `Azure Data Factory` `Databricks`  `Microservices` `API Integration`
+# 🔨 What I'm Building
+
+### [Local Procedure Manual](https://github.com/GlyptikaStudiosLLP/Local-procedure-manual)
+
+Offline Retrieval-Augmented Generation (RAG) system indexing **15,000–20,000 pages** of enterprise procedural documentation for secure knowledge retrieval.
+
+• Built for air-gapped and offline environments  
+• Semantic retrieval using vector search pipelines  
+• Quantized LLM deployment for low-resource inference  
+• High-accuracy document retrieval across large-scale manuals  
+
+`SentenceTransformers` `FAISS` `RAG` `LLM` `FastAPI` `PostgreSQL`
+
+---
+
+### [SyncLab](https://github.com/AggarwalKashvi/SyncLab)
+
+Real-time collaborative machine learning notebook enabling multiple users to code, execute Python, and analyze datasets simultaneously.
+
+• Built collaborative editing platform supporting **4 concurrent users**  
+• Achieved **<150ms network propagation latency**  
+• Delivered notebook synchronization updates in **under 1 second**  
+• Developed custom Python execution engine for ML workloads  
+• Optimized FastAPI async architecture handling **20+ execution requests per minute**  
+• Reduced communication overhead through WebSocket synchronization strategies  
+
+`FastAPI` `WebSockets` `PostgreSQL` `AsyncIO` `Python` `Real-Time Systems`
+
+---
+
+### [NeuroFlow](https://github.com/AggarwalKashvi/NeuroFlow_Platform)
+
+AI-powered productivity ecosystem combining intelligent reading, writing assistance, and task planning.
+
+• Built Chrome extension for distraction-free reading  
+• Removed approximately **90% of webpage distractions** using dynamic DOM manipulation  
+• Applied OpenDyslexic fonts for accessibility-focused reading  
+• Integrated Groq-hosted Llama-3 backend for AI assistance  
+• Achieved **94% spelling correction accuracy**  
+• Delivered predictive text completion with **1–2 second response latency**  
+• Developed LangGraph-based AI task planner for goal decomposition and execution planning  
+
+`LLM` `LangGraph` `Chrome Extension` `JavaScript` `Groq` `Prompt Engineering` `FastAPI`
+
+---
+
+# 💼 Tech Stack
+
+### AI / Machine Learning
+PyTorch • HuggingFace • NLP • Deep Learning • Machine Learning • RAG • LangGraph • EDA
+
+### Backend
+FastAPI • Node.js • REST APIs • WebSockets • PostgreSQL • SQL • Async Programming
+
+### Frontend
+React • JavaScript • TypeScript • HTML • CSS
+
+### Cloud & DevOps
+Azure • Docker • Kubernetes • GitHub Actions • CI/CD Pipelines
+
+### Languages
+Python • C • C++ • JavaScript • TypeScript • SQL • R
+
+### Design & Product
+Figma • Photoshop • UI/UX • Product Development
+
+### Developer Tools
+VS Code • Jupyter • Google Colab • n8n
+
+---
+
+# 🌱 Current Interests
+
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models
+- Real-Time Distributed Systems
+- Backend Architecture
+- Cloud-Native Applications
+- Product Engineering
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AggarwalKashvi&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AggarwalKashvi&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+# 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+💬 Open to opportunities in AI Engineering, Backend Development, Machine Learning, and Product-Focused Software Engineering.
