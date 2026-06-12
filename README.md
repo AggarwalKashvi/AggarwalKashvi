@@ -28,7 +28,7 @@ AI/ML engineer who likes building things end-to-end — intelligent backends, re
 |---|---|---|---|
 | [**Local Procedure Manual**](https://github.com/GlyptikaStudiosLLP/Local-procedure-manual) | Offline RAG system for the Indian Army indexing 15k–20k pages of defense manuals. Runs fully air-gapped on quantized 7B LLMs | Precision >85% · 2–5s end-to-end latency | Python · FAISS · SentenceTransformers · Ollama |
 | [**SyncLab**](https://github.com/AggarwalKashvi/SyncLab) | Real-time collaborative ML notebook with a custom Python execution engine and live multi-user editing | <150ms sync latency · 20+ req/min · <1s live updates | FastAPI · WebSockets · TypeScript · PostgreSQL |
-| [**NeuroFlow**](https://github.com/AggarwalKashvi/NeuroFlow_Platform) | Chrome extension for focused reading — strips ~90% distracting content, Groq-hosted Llama-3 backend for sentence completion + spell correction, LangGraph task decomposition | 94% accuracy · 1–2s response latency | LangChain · LangGraph · FastAPI · Groq · JavaScript |
+| [**NeuroFlow**](https://github.com/Vegito7110/NeuroFlow) | Chrome extension for focused reading — strips ~90% distracting content, Groq-hosted Llama-3 backend for sentence completion + spell correction, LangGraph task decomposition | 94% accuracy · 1–2s response latency | LangChain · LangGraph · FastAPI · Groq · JavaScript |
 
 ---
 
