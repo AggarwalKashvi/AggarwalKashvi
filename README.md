@@ -18,7 +18,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-AI/ML engineer who likes building things end-to-end — intelligent backends, real-time systems, and applied LLM tools that actually work in production. Currently going deep on **LLM agents**, **backend engineering**, and **cloud/MLOps**. 🚀
+I like building stuff :p . I am a AI/ML engineer who has experience working on intelligent backends, real-time systems, and applied LLM tools that actually work in production. Currently going deep on **LLM agents**, **backend engineering**, and **cloud/MLOps**. 🚀
 
 ---
 
