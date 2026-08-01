@@ -68,7 +68,7 @@ I like building stuff :p . I am a AI/ML engineer who has experience working on i
 
 <div align="center">
 
-### 💼 open to internships & full-time roles
+### Let's build together!
 *AI engineering · Applied ML · Backend — product companies & startups*
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashvi-aggarwal-496556278/)
