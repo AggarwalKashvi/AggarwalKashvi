@@ -27,7 +27,7 @@ I like building stuff :p . I am a AI/ML engineer who has experience working on i
 | project | what it does | impact | stack |
 |---|---|---|---|
 | [**Local Procedure Manual**](https://github.com/GlyptikaStudiosLLP/Local-procedure-manual) | Offline RAG system for the Indian Army indexing 15k–20k pages of defense manuals. Runs fully air-gapped on quantized 7B LLMs | Precision >85% · 2–5s end-to-end latency | Python · FAISS · SentenceTransformers · Ollama |
-| [**NeuroFlow**](https://github.com/AggarwalKashvi/azure-docintel) | Azure Function App that extracts structured data from documents (PDFs, images) using Document Intelligence OCR + Azure OpenAI, with schema-driven extraction stored in Cosmos DB. | 90% accuracy | Azure · Gpt-4o-mini · CosmosDB · NoSQL · function apps |
+| [**Azure Document Intelligence**](https://github.com/AggarwalKashvi/azure-docintel) | Azure Function App that extracts structured data from documents (PDFs, images) using Document Intelligence OCR + Azure OpenAI, with schema-driven extraction stored in Cosmos DB. | 90% accuracy | Azure · Gpt-4o-mini · CosmosDB · NoSQL · function apps |
 | [**NeuroFlow**](https://github.com/Vegito7110/NeuroFlow) | Chrome extension for focused reading — strips ~90% distracting content, Groq-hosted Llama-3 backend for sentence completion + spell correction, LangGraph task decomposition | 94% accuracy · 1–2s response latency | LangChain · LangGraph · FastAPI · Groq · JavaScript |
 
 ---
